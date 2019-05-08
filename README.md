@@ -1,34 +1,34 @@
-# Bievenido al Ejercicio Meli!
+# ¡Bienvenido/a al ejercicio de Meli!
 
-Siguiendo estas instrucciones podrás utilizar la plataforma Now creada por Zeit.co, la cual te proveerá de una forma simple  deployar una aplicación Node.js. Solo tendrás que realizar el log-in de tu cuenta de GitHub y estara listo para usar.
+Siguiendo estas instrucciones podrás utilizar la plataforma Now, creada por Zeit.co, que te proveerá una forma simple para deployar una aplicación Node.js. Solamente tendrás que realizar el login con tu cuenta de GitHub y estará lista para usar.
 
 
 
 # Vinculación de usuario:
 
 
-- Ingresar a : https://zeit.co/now
-- Debemos dar click a "comenzar con github", esta acción realizará la asociación junto con nuestro usuario de GitHub (Si no tenés crealo!).
-- Solo debemos realizar el login con las credenciales de Github y listo.
+- Ingresá a: https://zeit.co/github
+- Hacé click en "Comenzar con GitHub". Esta acción realizará la asociación con nuestro usuario de GitHub (Si no tenés uno, ¡crealo!).
+- Finalmente, loguéate con las credenciales de Github y listo.
 
 # Creación del repositorio y deploy en Zeit.co:
 
-- Clonar el repositorio : https://github.com/pabal1708/EjercicioMeli
-- Este repositorio consta de una API y un front-end estático.
-- Deberas crear un branch con tu Nombre y Apellido y realizar la integracion en el.
+- Clonar el repositorio : https://github.com/pabal1708/EjercicioMeli.
+- Este repositorio consta de una API y un frontend estático.
+- Creá un branch con tus datos (nombre y apellido) y realizá la integración en él.
 
 # Deploy:
 
-- Instalar Now, para esto ejecutá el siguiente comando:
+- Instalar Now. Para esto ejecutá el siguiente comando:
  $ npm i -g now 
 
 Documentación: https://zeit.co/docs/v2/getting-started/installation/.
 
 - Para deployar la API necesitas ejecutar el siguiente comando sobre el root del repositorio:
 $ now 
-- Luego para deployar la front-end, necesitas ejecutar el siguiente comando sobre el la carpeta my-app/:
+- Y para deployar el frontend, ejecutá este otro sobre la carpeta my-app/:
 $ now 
 
 Documentación: https://zeit.co/docs/v2/deployments/basics/.
 
-## Nota: Deberás generar un deploy para el api y otro para el front end con lo cual quedarán accesibles por Urls distintas.
+## Nota: Vas a tener que generar un deploy para la API y otro para el frontend para que queden accesibles por distintas URLs.

@@ -9,7 +9,7 @@
   ],
   "routes": [
     {
-      "src": "/url",
+      "src": "/ping",
       "methods": [
         "GET"
       ],

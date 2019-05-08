@@ -2,7 +2,8 @@
 
 Vinculación de usuario:
 
--Ingresar a : https://zeit.co/now
+
+- Ingresar a : https://zeit.co/now
 - Debemos dar click a "comenzar con github", esta acción realizara la asociación junto con    nuestro usuario.
 - Solo debemos realizar login con las credenciales de Github.
 

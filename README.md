@@ -22,13 +22,13 @@ Siguiendo estas instrucciones podrás utilizar la plataforma Now creada por Zeit
 - Instalar Now, para esto ejecutá el siguiente comando:
  $ npm i -g now 
 
-Documentación: https://zeit.co/docs/v2/getting-started/installation/).
+Documentación: https://zeit.co/docs/v2/getting-started/installation/.
 
 - Para deployar la API necesitas ejecutar el siguiente comando sobre el root del repositorio:
 $ now 
 - Luego para deployar la front-end, necesitas ejecutar el siguiente comando sobre el la carpeta my-app/:
 $ now 
 
-Documentación: https://zeit.co/docs/v2/deployments/basics/).
+Documentación: https://zeit.co/docs/v2/deployments/basics/.
 
 ## Nota: Deberás generar un deploy para el api y otro para el front end con lo cual quedarán accesibles por Urls distintas.

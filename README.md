@@ -14,7 +14,8 @@ Siguiendo estas instrucciones podrás utilizar la plataforma Now creada por Zeit
 # Creación del repositorio y deploy en Zeit.co:
 
 - Clonar el repo : https://github.com/pabal1708/EjercicioMeli
-- Este repositorio consta de una API y un front-end estático:
+- Este repositorio consta de una API y un front-end estático.
+- Deberas crear un branch con tu Nombre y Apellido y realizar la integracion en el.
 
 # Deploy:
 

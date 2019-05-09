@@ -31,4 +31,15 @@ $ now
 
 Documentación: https://zeit.co/docs/v2/deployments/basics/.
 
+## Creacion de nuevas rutas:
+
+Para crear nuevas rutas vas a tener que editar el erchivo now.json, utilizando este formato: 
+```xml
+  {
+    "src": "/ping",
+     "methods": [
+       "GET" ],
+      "dest": "/index.js" 
+  }
+```
 ## Nota: Vas a tener que generar un deploy para la API y otro para el frontend para que queden accesibles por distintas URLs.

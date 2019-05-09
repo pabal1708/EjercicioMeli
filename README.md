@@ -33,12 +33,12 @@ Documentación: https://zeit.co/docs/v2/deployments/basics/.
 
 ## Creacion de nuevas rutas:
 
-Para crear nuevas rutas vas a tener que editar el erchivo now.json, utilizando este formato: 
+Para crear nuevas rutas vas a tener que editar el erchivo now.json, utilizando este formato, podras editar el metodo, comando y documento de destino: 
 ```xml
   {
     "src": "/ping",
      "methods": [
-       "GET" ],
+          "GET" ],
       "dest": "/index.js" 
   }
 ```
